@@ -7,5 +7,4 @@ services:
     - 9090:8080
     networks:
     - mavenappbridge
-networks:
-  mavenappbridge:
+
